@@ -1,2 +1,2 @@
 [Variables]
-MyFontColor=223,228,235,255
+MyFontColor=255,255,255,255
