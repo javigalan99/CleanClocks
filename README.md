@@ -4,6 +4,8 @@ Simple and clean clock skin collection for Rainmeter including 10 different vari
 Version 3.0 has added the new configuration window where you can easily change colors
 using the color picker, enable or disable the bubble and change its size with the slider.
 
+[![Watch the video](assets/Vimeo_video.png)](https://vimeo.com/1054623325)
+
 Installation Guide:
 ==========================================================================================
 1. Install Rainmeter on your computer (you can find it here: https://www.rainmeter.net/)
