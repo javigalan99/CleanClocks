@@ -7,8 +7,8 @@ using the color picker, enable or disable the bubble and change its size with th
 Installation Guide:
 ==========================================================================================
 1. Install Rainmeter on your computer (you can find it here: https://www.rainmeter.net/)
-2. Download the .rms file from this repository
-3. Install the skin by just double clicking the .rms file and follow the install wizard
+2. Download the .rmskin file from this repository (Current version: cleanClocks_3.0.rmskin)
+3. Install the skin by just double clicking the .rmskin file and follow the install wizard
 
 Quick Guide of Use:
 ==========================================================================================
