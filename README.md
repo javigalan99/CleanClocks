@@ -21,15 +21,17 @@ with the following options:
 
    a) CleanClocks_v3 Configuration --> Opens or closes the "Configuration Window", there
 you can:
-      - Enable or disable the clock's bubble by clicking the checkbox
-      - Change the clock's or bubble's color by clicking the colored rectangles (this will
+
+   - Enable or disable the clock's bubble by clicking the checkbox
+   - Change the clock's or bubble's color by clicking the colored rectangles (this will
 open the color picker)
-      - Change the clock's size by sliding left or right the blue ball on the slider 
+   - Change the clock's size by sliding left or right the blue ball on the slider 
 (changes in size are applied the moment you release the left mouse button)
 
 ![cleanClocks_v3 cover_image](assets/ScreenCap.png)
 
    b) -> 24H Clock --> Changes the clock format to 24H
+   
    c) -> 12H Clock --> Changes the clock format to 12H
   
 2. You can move the skin wherever you like on your desktop (if you want, you can check 
