@@ -9,7 +9,7 @@ using the color picker, enable or disable the bubble and change its size with th
 Installation Guide:
 ==========================================================================================
 1. Install Rainmeter on your computer (you can find it here: https://www.rainmeter.net/)
-2. Download the .rmskin file from this repository (Current version: cleanClocks_3.0.rmskin)
+2. Download the .rmskin file from this repository (Current version: cleanClocks_v3.1.rmskin)
 3. Install the skin by just double clicking the .rmskin file and follow the install wizard
 
 Quick Guide of Use:
@@ -17,10 +17,9 @@ Quick Guide of Use:
 1. To open the context menu, right click on the skin. It shoud show you a dropdown menu
 with the following options:
 
-   a) Show/Hide Bubble --> Enables or disables the bubble (you can also do that in the 
-"Configuration Window")
+![cleanClocks_v3 cover_image](assets/contextual_menu.jpg)
 
-   b) CleanClocks_v3 Configuration --> Opens or closes the "Configuration Window", there
+   a) CleanClocks_v3 Configuration --> Opens or closes the "Configuration Window", there
 you can:
       - Enable or disable the clock's bubble by clicking the checkbox
       - Change the clock's or bubble's color by clicking the colored rectangles (this will
@@ -29,6 +28,9 @@ open the color picker)
 (changes in size are applied the moment you release the left mouse button)
 
 ![cleanClocks_v3 cover_image](assets/ScreenCap.png)
+
+   b) -> 24H Clock --> Changes the clock format to 24H
+   c) -> 12H Clock --> Changes the clock format to 12H
   
 2. You can move the skin wherever you like on your desktop (if you want, you can check 
 the Mouse Transparent option in the Rainmeter Management Window)
